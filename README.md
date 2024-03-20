@@ -6,5 +6,5 @@
 ### Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhipraydhoble/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=flat-square&logo=instagram)](https://www.instagram.com/im_abhipray/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat-square&logo=instagram)](https://www.instagram.com/im_abhipray/)
 
