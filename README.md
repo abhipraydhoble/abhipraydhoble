@@ -8,6 +8,8 @@
 </details>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![infinity](![image](https://github.com/user-attachments/assets/1ca78488-fae9-44b9-8242-96fede37399b)
+
 
 ![infinite-GIF-unscreen](https://github.com/user-attachments/assets/a0f50741-f6ab-4002-94b3-d5ba98e53fb4)
 ### Tools:
