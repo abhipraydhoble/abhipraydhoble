@@ -15,7 +15,6 @@
 
 
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.abhipraydhoble)
 
 
 
@@ -23,7 +22,9 @@
 
 
 
-![DevOps Infinity Logo](https://i.imgur.com/8CwXh9O.png)
+
+
+![DevOps Infinity Logo](https://media.giphy.com/media/3Xw8jY3zbFRtFd6eK8/giphy.gif)
 
 ### Tools:
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
