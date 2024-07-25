@@ -11,12 +11,6 @@
 
 ![loop-perfect-loops-GIF-unscreen](https://github.com/user-attachments/assets/345db906-2208-41d6-84cd-ed715bd868cc)
 
-![Rainbow-Infinity-GIF-unscreen](https://github.com/user-attachments/assets/46edca83-4036-4640-9cac-12e8c2cbae8e)
-
-
-
-
-![infinite-GIF-unscreen](https://github.com/user-attachments/assets/a0f50741-f6ab-4002-94b3-d5ba98e53fb4)
 ### Tools:
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
 |----------|----------|----------|----------|------|------|------|-------|------|------|-------|
