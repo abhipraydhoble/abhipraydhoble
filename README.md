@@ -1,6 +1,6 @@
 # 💫 About Abhipray :
 
-![DevOps Logo Animation](https://media.giphy.com/media/xT9IgIc0lrybP8VvXG/giphy.gif)
+![DevOps Infinity Logo Animation](https://media.giphy.com/media/4V3N9K2s7Z5y6pJTxO/giphy.gif)
 - 🔍  Lets Explore DevOps with ease.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
