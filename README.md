@@ -1,7 +1,15 @@
-# 💫 About Abhipray :
+# 💫 Who Am I?
 
-![DevOps Infinity Logo](https://i.imgur.com/8CwXh9O.png)
-- 🔍  Lets Explore DevOps with ease.
+```bash
+$ whoami
+Abhipray
+
+$ echo "Exploring DevOps with Ease"
+Welcome to my DevOps journey! I’m dedicated to simplifying complex processes and continuously improving practices in the world of DevOps. Let’s collaborate and innovate together.
+
+$ echo "Quote of the Day"
+"Continuous improvement is better than delayed perfection." - Mark Twain
+
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -19,7 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhipraydhoble/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_abhipray/)
 
-
+![DevOps Infinity Logo](https://i.imgur.com/8CwXh9O.png)
 
 ### Tools:
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
