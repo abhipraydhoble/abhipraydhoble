@@ -1,6 +1,6 @@
 # 💫 About Abhipray :
 
-https://i.imgur.com/8CwXh9O.png
+![DevOps Infinity Logo](https://i.imgur.com/8CwXh9O.png)
 - 🔍  Lets Explore DevOps with ease.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
