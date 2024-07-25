@@ -1,4 +1,13 @@
 # $${\color{red} \textbf{whoami}}$$
+# 💫 Who Am I?
+
+<details>
+  <summary>Click to Reveal</summary>
+
+```bash
+$ whoami
+Abhipray
+
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
