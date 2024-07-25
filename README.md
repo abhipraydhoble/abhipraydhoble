@@ -24,7 +24,7 @@
 
 
 
-![DevOps Infinity Logo](https://media.giphy.com/media/3Xw8jY3zbFRtFd6eK8/giphy.gif)
+![DevOps Infinity Logo](https://giphy.com/gifs/snake-3oFzmdjqH15YebLQ52)
 
 ### Tools:
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
