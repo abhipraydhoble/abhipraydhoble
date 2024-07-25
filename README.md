@@ -1,13 +1,13 @@
 # 💫 About Abhipray :
 - 🔍  Lets Explore DevOps with ease.
-### "Continuous improvement is better than delayed perfection." - Mark Twain   ## Random Quote
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
 ![CI/CD Pipeline](https://media.giphy.com/media/3o6ozhuDxyGLONywFW/giphy.gif)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.abhipraydhoble)
 
 
 
