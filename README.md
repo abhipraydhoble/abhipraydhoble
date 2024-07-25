@@ -1,6 +1,9 @@
 # 💫 About Abhipray :
 - 🔍  Lets Explore DevOps with ease.
-### "Continuous improvement is better than delayed perfection." - Mark Twain   
+### "Continuous improvement is better than delayed perfection." - Mark Twain   ## Random Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 ![CI/CD Pipeline](https://media.giphy.com/media/3o6ozhuDxyGLONywFW/giphy.gif)
 
@@ -53,5 +56,10 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
+## Latest Blog Posts
+- [How to Deploy a Kubernetes Cluster](https://yourblog.com/kubernetes-cluster)
+- [CI/CD with Jenkins](https://yourblog.com/cicd-jenkins)
 
 
