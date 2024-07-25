@@ -4,6 +4,9 @@
 
 ![CI/CD Pipeline](https://media.giphy.com/media/3o6ozhuDxyGLONywFW/giphy.gif)
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+
+
 
 ### Socials:
 ### Connect with Me:
