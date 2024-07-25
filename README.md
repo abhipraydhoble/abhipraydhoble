@@ -1,11 +1,6 @@
 # $${\color{red} \textbf{Who \ Am \ I?}}$$
 
 
-<details>
-  <summary>Click to Reveal</summary>
-$ whoami
-```bash
-Abhipray
 
 ## Connect with Me:
 
