@@ -9,7 +9,10 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Infinity Neurodiversity Symbol](https://media.giphy.com/media/w4WKOQv5hCkShyRyrx/giphy.gif)
+![infinite-GIF-unscreen](https://github.com/user-attachments/assets/f2ab6155-438f-46a8-8a58-985e07d03c1e)
+![infinite-GIF-unscreen](https://github.com/user-attachments/assets/7ef0eab3-cc88-4cab-aa41-fc4a075a30f7)
+
+
 
 
 ![infinite-GIF-unscreen](https://github.com/user-attachments/assets/a0f50741-f6ab-4002-94b3-d5ba98e53fb4)
