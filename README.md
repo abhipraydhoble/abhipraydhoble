@@ -18,6 +18,12 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%F0%9F%93%B7-lightred?style=for-the-badge&logo=instagram)](https://www.instagram.com/im_abhipray/)
 
+## Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhipraydhoble/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_abhipray/)
+
+
 
 ### Tools:
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
