@@ -9,8 +9,9 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![infinite-GIF-unscreen](https://github.com/user-attachments/assets/f2ab6155-438f-46a8-8a58-985e07d03c1e)
-![infinite-GIF-unscreen](https://github.com/user-attachments/assets/7ef0eab3-cc88-4cab-aa41-fc4a075a30f7)
+![loop-perfect-loops-GIF-unscreen](https://github.com/user-attachments/assets/345db906-2208-41d6-84cd-ed715bd868cc)
+
+![Rainbow-Infinity-GIF-unscreen](https://github.com/user-attachments/assets/46edca83-4036-4640-9cac-12e8c2cbae8e)
 
 
 
