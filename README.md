@@ -5,7 +5,8 @@
 
 
 
-![CI/CD Pipeline](https://media.giphy.com/media/3o6ozhuDxyGLONywFW/giphy.gif)
+![CI/CD Pipeline](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.abhipraydhoble)
 
