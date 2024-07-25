@@ -2,6 +2,9 @@
 - 🔍  Lets Explore DevOps with ease.
 ### "Continuous improvement is better than delayed perfection." - Mark Twain   
 
+![CI/CD Pipeline](https://media.giphy.com/media/3o6ozhuDxyGLONywFW/giphy.gif)
+
+
 ### Socials:
 ### Connect with Me:
 
