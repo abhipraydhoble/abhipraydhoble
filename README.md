@@ -1,14 +1,4 @@
-# 💫 Who Am I?
-
-```bash
-$ whoami
-Abhipray
-
-$ echo "Exploring DevOps with Ease"
-Welcome to my DevOps journey! I’m dedicated to simplifying complex processes and continuously improving practices in the world of DevOps. Let’s collaborate and innovate together.
-
-$ echo "Quote of the Day"
-"Continuous improvement is better than delayed perfection." - Mark Twain
+# $$/color{red} \textbf{whoami}$$
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
