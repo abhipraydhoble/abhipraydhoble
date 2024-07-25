@@ -1,6 +1,5 @@
 # $${\color{red} \textbf{Who \ Am \ I?}}$$
 
-![DevOps Infinity Logo](https://tenor.com/view/infinite-infinitely-infinity-gif-19596462.gif)
 
 ## Connect with Me:
 
@@ -19,9 +18,6 @@
 
 ![infinite-GIF-unscreen](https://github.com/user-attachments/assets/a0f50741-f6ab-4002-94b3-d5ba98e53fb4)
 
-
-
-![DevOps Infinity Logo](https://tenor.com/view/infinity-gif-15352573.gif)
 
 ### Tools:
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
