@@ -3,8 +3,6 @@
 
 <details>
   <summary>Click to Reveal</summary>
-
-```bash
 $ whoami
 Abhipray
 
