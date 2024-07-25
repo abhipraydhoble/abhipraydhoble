@@ -52,11 +52,7 @@
   />
 </picture>
 
-![pv](https://pageview.vercel.app/?github_user=rafaelmdcarneiro)
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 
 ## Latest Blog Posts
