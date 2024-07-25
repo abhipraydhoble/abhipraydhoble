@@ -1,4 +1,4 @@
-# $${/color{red} \textbf{whoami}}$$
+# $${\color{red} \textbf{whoami}}$$
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
