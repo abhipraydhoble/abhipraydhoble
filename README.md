@@ -1,6 +1,6 @@
 # 💫 About Abhipray :
 
-![DevOps Infinity Logo Animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-videos%2Finfinity-sign&psig=AOvVaw2dzvO32ymEowjt2IBieSBT&ust=1721979880796000&source=images&cd=vfe&opi=89978449&ved=0CBUQ3YkBahcKEwjA_bvq2cGHAxUAAAAAHQAAAAAQGg)
+![DevOps Infinity Logo Animation](https://yourimagehosting.com/yourgif.gif)
 - 🔍  Lets Explore DevOps with ease.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
