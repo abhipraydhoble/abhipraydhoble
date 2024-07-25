@@ -1,11 +1,11 @@
 # 💫 About Abhipray :
+
+![DevOps Logo Animation](https://media.giphy.com/media/xT9IgIc0lrybP8VvXG/giphy.gif)
 - 🔍  Lets Explore DevOps with ease.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-![CI/CD Pipeline](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.abhipraydhoble)
@@ -28,6 +28,8 @@
 
 
 
+## Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=abhipraydhoble&theme=dracula)
 
 
 
