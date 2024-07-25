@@ -7,12 +7,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_abhipray/)
 </details>
 
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ![infinite-GIF-unscreen](https://github.com/user-attachments/assets/a0f50741-f6ab-4002-94b3-d5ba98e53fb4)
-
 ### Tools:
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
 |----------|----------|----------|----------|------|------|------|-------|------|------|-------|
