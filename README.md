@@ -11,7 +11,8 @@
 
 ![Abhipray's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipraydhoble&show_icons=true&theme=radical)
 
-![Abhipray's Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhipraydhoble&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=abhipraydhoble&color=green&style=flat-square)
+
 
 
 
