@@ -18,12 +18,12 @@ Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud 
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies:
 
-| ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | ![Terraform](https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg) | ![Jenkins](https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg) | ![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg) | ![Ansible](https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg) | ![Ubuntu](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg) |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | ![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) | ![GitHub](https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg) | ![VS Code](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg) | ![AWS](https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7) | |
-| Git | Docker | GitHub | VS Code | AWS | |
+| Linux | Terraform | Jenkins | Kubernetes | Ansible | Ubuntu | Git | Docker | GitHub | VS Code | AWS |
+|-------|-----------|---------|------------|---------|--------|-----|--------|--------|---------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Ansible" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="55" height="55"/> |
+
 
 ---
 
