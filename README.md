@@ -8,6 +8,7 @@
 </details>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### Tools:
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
 |----------|----------|----------|----------|------|------|------|-------|------|------|-------|
