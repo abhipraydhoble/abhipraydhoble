@@ -131,7 +131,6 @@ A Netflix-inspired application with movie browsing and streaming features.
 - **Tech Stack**: React.js, TMDB API
 - **Features**:
   - Browse and search for movies by genre
-  - Dynamic trailers using YouTube integration
   - Modern, responsive design
 
 ---
