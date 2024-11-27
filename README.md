@@ -1,5 +1,3 @@
-# $${\color{green} \textbf{Who \ Am \ I?}}$$
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
