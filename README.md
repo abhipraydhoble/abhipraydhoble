@@ -9,7 +9,12 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Abhipray's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Abhipray's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipraydhoble&show_icons=true&theme=radical)
+
+![Abhipray's Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhipraydhoble&theme=radical)
+
+
+
 
 
 
