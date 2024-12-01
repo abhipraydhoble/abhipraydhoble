@@ -11,7 +11,7 @@ Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud 
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=abhipraydhoble&color=green&style=flat-square)
+
 ![Abhipray's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipraydhoble&show_icons=true&theme=radical)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -41,6 +41,8 @@ Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=abhipraydhoble&color=green&style=flat-square)
 
 ---
 
