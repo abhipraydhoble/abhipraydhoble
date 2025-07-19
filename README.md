@@ -126,12 +126,3 @@ A Netflix-inspired application with movie browsing and streaming features.
   - Browse and search for movies by genre
   - Modern, responsive design
 
----
-
-A Passionate AWS-DevOps Engineer
-coding
-
-
-
-Languages and Tools:
-aws bash docker gcp git kubernetes linux mysql postgresql postman python
