@@ -128,4 +128,10 @@ A Netflix-inspired application with movie browsing and streaming features.
 
 ---
 
+A Passionate AWS-DevOps Engineer
+coding
 
+
+
+Languages and Tools:
+aws bash docker gcp git kubernetes linux mysql postgresql postman python
