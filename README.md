@@ -1,8 +1,4 @@
-<p align="center">
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="https://private-user-images.githubusercontent.com/122669982/532063636-1a7e26f0-1217-4d7f-937b-4ce1a5f18d56.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc2MzY3MzIsIm5iZiI6MTc2NzYzNjQzMiwicGF0aCI6Ii8xMjI2Njk5ODIvNTMyMDYzNjM2LTFhN2UyNmYwLTEyMTctNGQ3Zi05MzdiLTRjZTFhNWYxOGQ1Ni5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwNVQxODA3MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01OTc0NWZlYWE2NGNhMzg2YTEzM2Q2MDA5ODViMWI3ZDY0YmJiYTQ3NGMwMmZkY2I2MzhhMjZjZjQ3NjM4NjIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pZfDttgR98ynI2gBLdCtGW51yTHXcOX7u1vy87xjaNQ" type="video/mp4">
-  </video>
-</p>
+https://github.com/abhipraydhoble/abhipraydhoble/issues/2#issue-3782406295
 
 I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
 
