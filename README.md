@@ -1,3 +1,27 @@
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhipraydhoble&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhipraydhoble&theme=tokyonight" />
+</p>
+
+
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/abhipraydhoble/)
+
+
+<p align="center">
+  <img width="750px" 
+    src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=26&duration=3000&color=58A6FF&center=true&vCenter=true&lines=Hello+World+👋;I'm+Abhipray+Dhoble;DevOps+%7C+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Automating+Ideas+Into+Reality+⚙️☁️" />
+</p>
+
+
+
 
 <p align="center">
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
