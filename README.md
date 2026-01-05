@@ -1,5 +1,7 @@
 <p align="center">
-  <video src="assets/hero.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video width="100%" autoplay loop muted playsinline>
+    <source src="https://user-images.githubusercontent.com/XXXXXXXX/hero.mp4" type="video/mp4">
+  </video>
 </p>
 
 I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
